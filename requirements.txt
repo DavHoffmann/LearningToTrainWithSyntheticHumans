@@ -1,0 +1,12 @@
+argparse
+dill
+fire
+matplotlib
+psutil
+requests
+scikit-image
+scipy
+slidingwindow
+tqdm
+tensorpack==0.8.6
+cython

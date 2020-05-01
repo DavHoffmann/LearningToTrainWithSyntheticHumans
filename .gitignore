@@ -1,0 +1,7 @@
+models/*
+logfiles/*
+purelySynthetic
+tf_pose/probs_dict*
+tmpgt
+tmpNpy
+vis
