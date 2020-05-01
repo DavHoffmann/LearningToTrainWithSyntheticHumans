@@ -70,7 +70,7 @@ ch.setFormatter(formatter)
 logger.addHandler(ch)
 
 mplset = False
-mpiMaskPath = './masks'
+mpiMaskPath = './MPII_images/masks'
 
 
 
